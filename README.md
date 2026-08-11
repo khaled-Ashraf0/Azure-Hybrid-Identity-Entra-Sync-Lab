@@ -52,6 +52,9 @@ A comprehensive hands-on lab demonstrating the implementation, comparison, and t
 
 ![Screenshot 2](https://github.com/user-attachments/assets/034dece8-2ef6-4006-a0d6-7f107a1f21e2)
 
+<img width="1913" height="977" alt="Screenshot 2026-08-11 222545" src="https://github.com/user-attachments/assets/0a47cbfb-735e-4333-bde4-fed227ae8647" />
+
+
 ![Screenshot 3](https://github.com/user-attachments/assets/f8c8f919-1a8f-4215-9555-faf8103bdc36)
 
 ![Screenshot 4](https://github.com/user-attachments/assets/44a0bc64-30ad-4241-9226-fdcb420cb959)
