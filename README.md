@@ -1,4 +1,6 @@
 # ☁️ Azure Hybrid Identity – Entra Sync Lab
+<img width="1600" height="900" alt="svg" src="https://github.com/user-attachments/assets/0c52932d-51b4-475a-b046-e9e7da50ea51" />
+
 
 A comprehensive hands-on lab demonstrating the implementation, comparison, and troubleshooting of **Microsoft Entra Connect Sync** and **Microsoft Entra Cloud Sync Agent** in a hybrid identity environment.
 
